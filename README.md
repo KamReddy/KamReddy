@@ -11,3 +11,5 @@ Core Skills and Tools:
 • Core Concepts: Data Structures &    Algorithms, Object-Oriented Programming    and Database Systems
 
 •  Tools and Platforms: Git/Github, Microsoft Azure, Docker, MongoDB, Firebase, Swagger and Postman
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
