@@ -22,6 +22,13 @@ I am a 3rd-year **Computer Science** student passionate about building scalable 
 | **Core Concepts** | Data Structures & Algorithms • Object-Oriented Programming (OOP) • System Design • RESTful APIs |
 
 ---
+### 📈 GitHub Stats & Activity
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamReddy&theme=radial&hide_border=true" alt="Kam's GitHub Streak" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KamReddy&theme=radial&column=3&margin-w=15" alt="Kam's GitHub Trophies" width="49%" />
+</p>
+
+---
 ### 📫 Let's Connect!
 - **LinkedIn:** [Kamran Reddy](https://www.linkedin.com/in/kamran-reddy-94302839a)
