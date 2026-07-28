@@ -22,11 +22,5 @@ I am a 3rd-year **Computer Science** student passionate about building scalable 
 | **Core Concepts** | Data Structures & Algorithms • Object-Oriented Programming (OOP) • System Design • RESTful APIs |
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KamReddy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KamReddy&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KamReddy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 ### 📫 Let's Connect!
 - **LinkedIn:** [Kamran Reddy](https://www.linkedin.com/in/kamran-reddy-94302839a)
