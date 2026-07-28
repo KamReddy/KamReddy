@@ -1,8 +1,6 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Kam 👋 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-reddy-94302839a)
 
 ### 🚀 About Me
 I am a 3rd-year **Computer Science** student passionate about building scalable software, solving complex algorithmic problems, and architecting clean, maintainable systems. With a solid foundation in data structures, system architecture, and full-stack development, I enjoy taking applications from concept and database design all the way to cloud deployment.
@@ -27,13 +25,11 @@ I am a 3rd-year **Computer Science** student passionate about building scalable 
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KamReddy&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamReddy&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Kamran Reddy](https://www.linkedin.com/in/kamran-reddy-94302839a)
