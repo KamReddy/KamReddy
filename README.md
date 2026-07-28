@@ -23,7 +23,5 @@ I am a 3rd-year **Computer Science** student passionate about building scalable 
 
 ---
 
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [Kamran Reddy](https://www.linkedin.com/in/kamran-reddy-94302839a)
