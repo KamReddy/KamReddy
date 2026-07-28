@@ -5,10 +5,10 @@
 ### 🚀 About Me
 I am a 3rd-year **Computer Science** student passionate about building scalable software, solving complex algorithmic problems, and architecting clean, maintainable systems. With a solid foundation in data structures, system architecture, and full-stack development, I enjoy taking applications from concept and database design all the way to cloud deployment.
 
-- 🔭 **Currently focused on:** Full-Stack Development, Cloud Architecture, and RESTful APIs
+- 🔭 **Currently focused on:** Full-Stack Development, Database Management
 - 🎓 **Education:** B.S. in Computer Science (3rd Year)
 - 💼 **Looking for:** Software Engineering Internships & Co-op Opportunities
-- ⚡ **Fun Fact:** I love taking apart complex backend problems and writing clean code!
+- ⚡ **Fun Fact:** I love critical thinking and complex problem solving!
 
 ---
 
@@ -25,8 +25,8 @@ I am a 3rd-year **Computer Science** student passionate about building scalable 
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamReddy&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamReddy&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KamReddy&show_icons=true&theme=radial&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamReddy&layout=compact&theme=radial&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 ---
