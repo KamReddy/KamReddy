@@ -23,12 +23,6 @@ I am a 3rd-year **Computer Science** student passionate about building scalable 
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamReddy&theme=radial" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamReddy&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 ### 📫 Let's Connect!
